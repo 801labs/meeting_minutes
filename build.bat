@@ -1,0 +1,2 @@
+C:\pandoc-2.7.3-windows-x86_64\pandoc.exe minutes.md -f markdown -t html5 --template=files\theme.html5 --pdf-engine "C:\wkhtmltox-0.12.5-1.mxe-cross-win64\wkhtmltox\bin\wkhtmltopdf.exe"  -o minutes.pdf
+C:\pandoc-2.7.3-windows-x86_64\pandoc.exe minutes.md -f markdown -t html5 --template=files\theme.html5 --pdf-engine "C:\wkhtmltox-0.12.5-1.mxe-cross-win64\wkhtmltox\bin\wkhtmltopdf.exe"  -o minutes.html
