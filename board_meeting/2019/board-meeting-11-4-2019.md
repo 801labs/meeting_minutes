@@ -1,21 +1,20 @@
 ---
-title: Board Member Meeting Minutes
-date: November 4th, 2019
-meets_quorum: Yes
+    title: Board Member Meeting Minutes
+    date: November 4th, 2019
+    meets_quorum: Yes
 
-board_members_present:
-- name: Lance Buttars
-  position: President
-- name: Marv White
-- name: Mike Weaver
-  position: Secretary
+    board_members_present:
+    - name: Lance Buttars
+      position: President
+    - name: Marv White
+    - name: Mike Weaver
+      position: Secretary
 
-approval:
-  date: November 7th, 2019
-  name: Mike Weaver
-  position: Secretary
+    approval:
+      date: November 7th, 2019
+      name: Mike Weaver
+      position: Secretary
 ...
-
 # Last Meeting Followup
 - No items to follow up on
 
