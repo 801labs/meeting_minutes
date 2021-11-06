@@ -1,6 +1,6 @@
 ---
     title: Board Member Meeting Minutes
-    date: Nov 11th, 2021
+    date: Nov 5th, 2021
     meets_quorum: Yes
 
     board_members_present:
@@ -11,7 +11,7 @@
       position: Secretary
 
     approval:
-      date: Nov. 11th, 2021
+      date: Nov. 5th, 2021
       name: Mike Weaver
       position: Secretary
 ...
