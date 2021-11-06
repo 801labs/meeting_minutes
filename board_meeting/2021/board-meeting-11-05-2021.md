@@ -22,6 +22,9 @@
 - $5,062.04 income from Every.org fundraiser
 
 # Topics Discussed
+- Officer Coordinator Position
+    - Kayden Lindsey nominated Kimber as the Officer Coordinator
+    - The vote was unanimous in favor of Kimber as the Officer Coordinator
 - Covid-19 Policy and Requirements for the hackerspace
     - The board discussed the general sentiment of the patrons of the hackerspace
     - The board reviewed a detailed proposal given by Admiral Potato
