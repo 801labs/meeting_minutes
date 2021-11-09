@@ -11,7 +11,7 @@
       position: Secretary
 
     approval:
-      date: Nov. 5th, 2021
+      date: Nov. 8th, 2021
       name: Mike Weaver
       position: Secretary
 ...
@@ -40,7 +40,11 @@
 	- The vote was unanimous in favor of tabling the discussion
 - Plans on when the COVID-19 Policy and Requirements should expire
     - Mike Weaver proposed we table this discussion until a Policy has been created
-	- The vote was unanimous in favor of tabling the discussion 
+	- The vote was unanimous in favor of tabling the discussion
+- Request to start a new event
+    - The board reviewed and discussed a request from Wother to start hosting the 2600 meetups at the hackerspace on the 1st Friday of every month.
+    - Mike Weaver proposed that we accept this event as a regular event on our calendar.
+    - The vote was unanimous in favor of the proposal 
 
 # Next Meeting
 Unknown
